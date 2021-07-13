@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666291215975",
+    "firebase_url": "https://bloadbank1.firebaseio.com",
+    "project_id": "bloadbank1",
+    "storage_bucket": "bloadbank1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666291215975:android:2028a4bbf35f7055",
+        "android_client_info": {
+          "package_name": "com.loke.bloadbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666291215975-fr189g8ndef2h2kmb6n3li7s3mvk84st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loke.bloadbank",
+            "certificate_hash": "669afacc40f6ff53f1799db1db911aa89396cbca"
+          }
+        },
+        {
+          "client_id": "666291215975-2atmtq30u7nb2b6mve8pmd1u3d2kfjgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrcDuDrNWVEt0UyFRU6qAPQsAe1Fic4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666291215975-2atmtq30u7nb2b6mve8pmd1u3d2kfjgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
